@@ -1,16 +1,11 @@
-### Hi there 👋
+### Olá!! Me chamo Camila Guimarães 👋🏼
+## Bem vindo ao meu perfil do GitHub
 
-<!--
-**miilacg/miilacg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando como desenvolvedora full-stack na Dr. TIS e fazendo pós-graduação em Engenharia de Software
+- 📫 Contate-me no e-mail: camiilacguimaraes@gmail.com
+   
+<div>
+  <a href="https://github.com/miilacg">
+  <img height="180em" src="https://readme-zgf6.vercel.app/api/top-langs/?username=miilacg&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miilacg&show_icons=true&theme=default&include_all_commits=true&rank_icon=github&count_private=true&hide=stars"/>
+</div>
