@@ -6,6 +6,6 @@
    
 <div>
   <a href="https://github.com/miilacg">
-  <img height="180em" src="https://readme-zgf6.vercel.app/api/top-langs/?username=miilacg&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats-rust-eight-41.vercel.app/api/top-langs/?username=miilacg&layout=compact&langs_count=7&theme=default"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miilacg&show_icons=true&theme=default&include_all_commits=true&rank_icon=github&count_private=true&hide=stars"/>
 </div>
